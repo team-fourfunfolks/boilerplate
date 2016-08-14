@@ -14,19 +14,19 @@ __Git-Together__ is a D3 visualization of a team-based Git workflow that updates
 
 #### Grab code and resolve module dependencies
 
-		git clone https://github.com/team-fourfunfolks/boilerplate.git
-		cd boilerplate
-		npm install
+	git clone https://github.com/team-fourfunfolks/boilerplate.git
+	cd boilerplate
+	npm install
 
 #### Watch and run local envionment (in two Terminal tabs)
 
-		npm run watch
-		npm run start
+	npm run watch
+	npm run start
 
 
 #### Testing
 
-    npm run test
+	npm run test
 
 ## Development
 
