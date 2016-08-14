@@ -18,12 +18,16 @@ __Git-Together__ is a D3 visualization of a team-based Git workflow that updates
 	cd boilerplate
 	npm install
 
-#### Watch and run local envionment (in two Terminal tabs)
+#### Watch and run local environment (in two Terminal tabs)
 
 	npm run watch
 	npm run start
 
 
+#### Run server-side environment
+
+	npm run server
+	
 #### Testing
 
 	npm run test
